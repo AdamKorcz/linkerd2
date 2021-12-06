@@ -22,7 +22,7 @@
     "d3-force": "3.0.0",
     "d3-format": "3.0.1",
     "d3-selection": "3.0.0",
-    "date-fns": "2.26.0",
+    "date-fns": "2.27.0",
     "jest-progress-bar-reporter": "^1.0.21",
     "locales-detector": "3.0.2",
     "lodash": "4.17.21",
@@ -77,7 +77,7 @@
     "sinon-stub-promise": "4.0.0",
     "style-loader": "^3.3.1",
     "url-loader": "^4.1.1",
-    "webpack": "^5.64.4",
+    "webpack": "^5.65.0",
     "webpack-bundle-analyzer": "4.5.0",
     "webpack-cli": "4.9.1",
     "webpack-dev-server": "4.6.0"
